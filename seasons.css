@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+		background-color: black
+			}
+		header h1 {
+			color: yellow; text-align: center; font-family: 'Pacifico', cursive; font-size:max(2vw, 7vw); margin:0 auto;
+		}
+		main div {
+			display:flex; justify-content:center
+		}
+		main div figure {
+			text-align: center
+		}
+		main div figure img {
+			border-top-left-radius:25px; 
+			border:1px solid yellow;
+			width:100%;
+			height:auto;
+		}
+		figcaption {
+			color: white;
+			font-size: 1.5em;
+		}
+		figure {
+			text-align: center;
+		}
+		#spring {
+			border-top-left-radius:25px; 
+			border:1px solid yellow; ; 
+			width:100%; 
+			height:auto;
+		}
+		div {
+			display:flex; 
+			justify-content:center;
+		}
+		#summer {
+			border-top-right-radius:25px; 
+			border:1px solid yellow; 
+			width:100%; 
+			height:auto;
+}
+		#fall {
+			border-bottom-left-radius:25px; 
+			border:1px solid yellow; 
+			width:100%; 
+			height:auto;
+		}
+		#winter {
+			border-bottom-right-radius:25px; 
+			border:1px solid yellow; 
+			width:100%; 
+			height:auto;
+		}
+		hr {
+			width:75%; margin-top:20px
+		}
+		footer {
+			font-size:.8em; color:silver;text-align:center; top-padding:10px;
+		}
+		#mbLogo {
+			width:100px
+		}
+
+/* CSS Document */
+
